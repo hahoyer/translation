@@ -3,6 +3,6 @@ api_token_env: CROWDIN_PERSONAL_TOKEN
 base_path: .
 preserve_hierarchy: 1
 files:
-  - source: /en.ini
-    translation: /%locale%.ini
+  - source: /en/base.ini
+    translation: /%locale%/base.ini
     scheme: ini
