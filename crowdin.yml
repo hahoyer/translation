@@ -5,6 +5,6 @@ base_path: '.'
 preserve_hierarchy: true
 
 files:
-  - source: '/localization_ini/en.ini'
-    translation: '/localization_ini/%two_letters_code%.ini'
+  - source: '/en.ini'
+    translation: '/%locale%.ini'
     scheme: ini
