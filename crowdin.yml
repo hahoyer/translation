@@ -5,3 +5,4 @@ preserve_hierarchy: 1
 files:
   - source: /en.ini
     translation: /%locale%.ini
+    scheme: ini
